@@ -1,0 +1,15 @@
+Bootstrap checkpoints portant sur la création d'une page de destination pour une agence de voyages à l'aide des composants Bootstrap.
+
+Bootstrap checkpoints on creating a landing page for a travel agency using Bootstrap components.
+
+Tailwind CSS checkpoints on creating a  webpage for your personal portfolio using Tailwind CSS
+
+Checkpoint on writing a Sting, Array and Mathematical Functions.
+
+The checkpoint involves accumulating 300 points by solving CodeWars puzzles.
+
+Checkpoint on Asynchronous Programming in JavaScript
+
+Checkpoint on Weather App
+
+Checkpoint write an algorithm that read a sentence
