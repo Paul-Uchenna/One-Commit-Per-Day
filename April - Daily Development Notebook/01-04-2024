@@ -1,0 +1,106 @@
+# [FR] Journal de Développement - MongoDB
+
+## 01/04/2024
+
+### Progrès Réalisés
+
+Aujoud'hui, je poursuis mon apprentissage de la base de donnée MongoDB.
+
+## Introduction aux transactions ACID (Atomicité, Cohérence, Isolation et Durabilité)
+
+- Une transaction ACID est un groupe d'opérations de base de donnée qui s'exécutent ensemble avec succès ou aucune d'entre elles ne l'est. Il n'y a pas de demi-mesure.
+
+- Les transactions ACID sont généralement utilisées dans des contextes tels que les transactions bancaires, commerciales, ou toute autre operation necessitant des echanges entre plusieurs comptes.
+
+### Comment effectuer une transaction?
+
+1. Démarrez une session MongoDB à l'aide de `db.getMongo().startSession()`.
+2. Commencez une transaction avec `session.startTransaction()`.
+3. Obtenez la collection sur laquelle on souhaite effectuer des opérations en utilisant `session.getDatabase('< nom de la base de données >').getCollection('< nom de la collection >')`.
+4. Ajoutez les opérations de base de données que vous souhaitez effectuer, telles que `.updateOne()`, entre autres.
+5. Terminez la transaction en appelant `session.commitTransaction()`.
+
+```Shell
+const session = db.getMongo().startSession()
+
+session.startTransaction()
+
+const account = session.getDatabase('< nom de la base de données>').getCollection('<nom de la collection>')
+
+//Add database operations like .updateOne() here
+
+session.commitTransaction()
+```
+
+### Abandonner une Transaction
+
+Pour abandonner une transaction on utilise `abortTransaction()`
+
+```Shell
+const session = db.getMongo().startSession()
+
+session.startTransaction()
+
+const account = session.getDatabase('< nom de la base de données>').getCollection('<nom de la collection>')
+
+//Add database operations like .updateOne() here
+
+session.abortTransaction()
+```
+
+**NB: Une transaction a une durée d'exécution maximale de moins d'une minute après la première écriture.**
+
+---
+
+# [EN] Development Journal - MongoDB
+
+## April 01,2024
+
+### Progress Achieved
+
+Today, I continue my learning journey with MongoDB databases.
+
+## Introduction to ACID Transactions (Atomicity, Consistency, Isolation, and Durability)
+
+- An ACID transaction is a group of database operations that execute together successfully, or none of them do. There is no middle ground.
+- ACID transactions are commonly used in contexts such as banking transactions, commercial transactions, or any operation requiring exchanges between multiple accounts.
+
+### How to Perform a Transaction?
+
+1. Start a MongoDB session using `db.getMongo().startSession()`.
+2. Begin a transaction with `session.startTransaction()`.
+3. Obtain the collection on which you want to perform operations using `session.getDatabase('<database name>').getCollection('<collection name>')`.
+4. Add the database operations you want to perform, such as `.updateOne()`, among others.
+5. Complete the transaction by calling `session.commitTransaction()`.
+
+```Shell
+const session = db.getMongo().startSession();
+
+session.startTransaction();
+
+const account = session.getDatabase("<database name>").getCollection("<collection name>");
+
+// Add database operations like .updateOne() here
+
+session.commitTransaction();
+```
+
+### Aborting a Transaction
+
+To abort a transaction, use `abortTransaction()`.
+
+Example:
+
+```Shell
+const session = db.getMongo().startSession()
+
+session.startTransaction()
+
+const account = session.getDatabase('<database name>').getCollection('<collection name>')
+
+// Add database operations like .updateOne() here
+
+session.abortTransaction()
+```
+
+**Note: A transaction has a maximum execution time of less than one minute after the first write.**
