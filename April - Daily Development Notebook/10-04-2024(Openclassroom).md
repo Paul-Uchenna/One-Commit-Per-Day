@@ -10,6 +10,8 @@ j'ai debuté un nouveau sur openclassroom intitulé [Passez au Full Stack avec N
 
 - J'ai terminé le premier chapitre, "Créez un serveur Express simple";
 
+Voici le lien du [repository](<https://github.com/Paul-Uchenna/One-Commit-Per-Day/tree/main/Openclassroom(Fullstack)>)
+
 ---
 
 # [EN] Development Journal - Express.js
@@ -23,3 +25,5 @@ Today, I coded for 2 hours, which corresponds to 4 pomodoros of 30 minutes each 
 I started a new course on OpenClassrooms titled [Become a Full Stack Developer with Node.js, Express, and MongoDB](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb).
 
 - I have completed the first chapter, "Create a simple Express server";
+
+Here is the link to the [repository](<https://github.com/Paul-Uchenna/One-Commit-Per-Day/tree/main/Openclassroom(Fullstack)>)
