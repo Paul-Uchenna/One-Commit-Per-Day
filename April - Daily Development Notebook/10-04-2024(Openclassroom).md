@@ -8,6 +8,8 @@ Aujourd'hui, j'ai codé pendant 2 heures, ce qui correspond à 4 pomodoros de 30
 
 j'ai debuté un nouveau sur openclassroom intitulé [Passez au Full Stack avec Node.js, Express et MongoDB](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb).
 
+- J'ai terminé le premier chapitre, "Créez un serveur Express simple";
+
 ---
 
 # [EN] Development Journal - Express.js
@@ -19,3 +21,5 @@ j'ai debuté un nouveau sur openclassroom intitulé [Passez au Full Stack avec N
 Today, I coded for 2 hours, which corresponds to 4 pomodoros of 30 minutes each with a 3-minute break between each pomodoro.
 
 I started a new course on OpenClassrooms titled [Become a Full Stack Developer with Node.js, Express, and MongoDB](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb).
+
+- I have completed the first chapter, "Create a simple Express server";
