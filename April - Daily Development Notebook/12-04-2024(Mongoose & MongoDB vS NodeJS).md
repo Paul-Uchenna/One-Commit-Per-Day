@@ -12,9 +12,9 @@ Je poursuis mon apprentissage sur Mongoose & MongoDB vS NodeJS.
 
 ### Mongoose Intro
 
-Mongoose est une bibliothèque de modélisation de données objet (ODM) pour MongoDB et Node.js. Il est responsable de:
+Mongoose est une bibliothèque de modélisation de donnée objet (ODM) pour MongoDB et Node.js. Il est responsable de:
 
-- La gestion des relations de données.
+- La gestion des relations de donnée.
 - La validation de schéma.
 - L'implémentation de la traduction entre les objets de code et leur représentation dans MongoDB.
 
