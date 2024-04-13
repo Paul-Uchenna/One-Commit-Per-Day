@@ -16,7 +16,7 @@ Malgré les défis de la journée, j'ai réussi à consacrer du temps à mon app
 
 ---
 
-# [EN] Development Journal - Express.js
+# [EN] Development Journal - Mongoose & MongoDB vS NodeJS
 
 ## April 13,2024
 
