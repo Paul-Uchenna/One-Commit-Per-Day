@@ -4,7 +4,7 @@
 
 ### Progrès Réalisés
 
-Aujourd'hui, j'ai codé pendant 4 heures et 30 minutes, dont 2 heures 30 minutes le matin et 2 heure le soir, ce qui correspond à 7 pomodoros de 30 minutes avec une pause de 5 minutes entre chaque pomodoro.
+Aujourd'hui, j'ai codé pendant 4 heures et 30 minutes, dont 2 heures 30 minutes le matin et 2 heure le soir, ce qui correspond à 9 pomodoros de 30 minutes avec une pause de 5 minutes entre chaque pomodoro.
 
 Utilisant [Pomodoro Tracker](https://pomodoro-tracker.com/) pour suivre mon temps. Je fais des sessions de travail d'une heure, sans interruption, pour rester concentré et productif. Cela me permet de mesurer précisément mon temps de programmation solo, en excluant les discussions et le pair programming.
 
