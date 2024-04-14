@@ -21,3 +21,13 @@ Utilisant [Pomodoro Tracker](https://pomodoro-tracker.com/) pour suivre mon temp
 ## April 14,2024
 
 ### Progress Achieved
+
+Today, I coded for 4 hours and 30 minutes, split into 2 hours and 30 minutes in the morning and 2 hours in the evening, which corresponds to 9 Pomodoros of 30 minutes each with a 5-minute break between each Pomodoro.
+
+I used [Pomodoro Tracker](https://pomodoro-tracker.com/) to track my time. I do one-hour work sessions without interruptions to stay focused and productive. This allows me to accurately measure my solo programming time, excluding discussions and pair programming.
+
+- I had a free day with no commitments, so I started a fairly long exercise on database management with Mongoose.
+
+- I haven't finished the exercise yet because I had difficulty understanding the Mongoose documentation, and I encountered some typos with functions I used that turned out to be obsolete.
+
+- I plan to finish the exercise tomorrow and will leave a link to the repository.
