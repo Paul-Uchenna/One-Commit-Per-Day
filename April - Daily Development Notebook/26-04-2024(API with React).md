@@ -31,3 +31,18 @@ Pour utiliser les API avec React, Nous devons envoyer des requêtes HTTP avec **
 ### Progress Achieved
 
 Today, I started exploring a new topic on APIs, particularly on integrating APIs with React.
+
+### APIs and Methods
+
+An API, or Application Programming Interface, is a set of rules and protocols that allow different software to communicate with each other.
+Methods in the context of APIs refer to the actions that can be performed on a resource. The most commonly used methods are :
+
+- **GET** : Retrieve data from a resource.
+- **POST** : Send data to a resource for processing.
+- **PUT** : Update data of a resource.
+- **DELETE** : Delete a resource.
+
+To use APIs with React, we need to send HTTP requests with **Axios** or **Fetch**, handle responses and errors, and then update the user interface with the received data.
+
+- Axios is a popular JavaScript library used to perform HTTP requests from a browser or Node.js. It offers a simple and expressive syntax, automatic error handling, support for asynchronous requests, and facilitates data response transformation.
+- Fetch is a native JavaScript API that also allows performing HTTP requests. It is built into modern browsers and offers a lighter syntax compared to Axios. However, Fetch is less abstract than Axios and may require a bit more work to handle certain aspects like errors and data transformation.
