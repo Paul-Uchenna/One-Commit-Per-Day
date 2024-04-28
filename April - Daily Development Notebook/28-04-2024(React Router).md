@@ -17,10 +17,19 @@ Voici quelques points clés que j'ai retenu :
 
 ---
 
-# [EN] Development Journal - API with REACT
+# [EN] Development Journal - React Router
 
 ## April 28,2024
 
 ### Progress Achieved
 
-Today,
+Today, I began exploring a new topic regarding React, specifically React Router.
+
+React Router is a popular library used with React to manage navigation in a multipage application. It allows defining routes that correspond to specific URLs and rendering corresponding React components when these routes are reached.
+
+Here are some key points I've gathered:
+
+- Route definition: React Router allows defining routes in a React application by associating components with specific URLs. This is typically done using the `<Route>` component.
+- Navigation between pages: The `<Link>` component of React Router is used to create links between different pages of the application. Unlike traditional HTML anchor tags, `<Link>` enables smooth navigation between pages without a full page reload.
+- Handling URL parameters: React Router also enables managing dynamic URL parameters using placeholders in routes. These parameters can be extracted and used in components to customize content based on the URL.
+- Managing navigation history: React Router provides a `BrowserRouter` component that utilizes the HTML5 History API to manage navigation history consistently. This allows updating the browser's URL without a page reload and maintaining a consistent application state.
