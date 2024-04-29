@@ -23,3 +23,11 @@ Voici un résumé succinct pour chacune des parties explorées :
 ### Progress Achieved
 
 Today, I continue my exploration of React Router. I delved into nested routes, nested routes with outlet, and protected routes.
+
+Here's a brief summary for each of the explored parts:
+
+1. **Nested Routes**: I explored how to organize routes hierarchically, allowing for the definition of sub-routes for specific components. This provides better structuring of the application and more efficient URL management.
+
+2. **Nested Routes with Outlet**: I discovered how to use the `<Outlet>` element to display the content of nested routes inside other components. This allows for great flexibility in building the user interface and managing child components.
+
+3. **Protected Routes**: I learned to set up routes accessible only to authenticated users. By using techniques such as checking login status or user roles, I was able to restrict access to certain parts of my application, thus enhancing data security and privacy.
