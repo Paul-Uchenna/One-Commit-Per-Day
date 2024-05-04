@@ -25,3 +25,7 @@ Today, I coded for 2 hours and 30 minutes, with 2 hours in the morning and 1 hou
 I used [Pomodoro Tracker](https://pomodoro-tracker.com/) to track my time. I do one-hour work sessions without interruption to stay focused and productive. This allows me to accurately measure my solo programming time, excluding discussions and pair programming.
 
 I continue my exploration of React Router, through a protic exercise of a To Do List.
+
+- After integrating the feature to modify items in the task list using the button.
+
+- I expanded the application by introducing two new components. These components allow distinguishing between tasks that have already been completed and those that are not yet completed.
