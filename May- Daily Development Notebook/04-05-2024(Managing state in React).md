@@ -4,13 +4,15 @@
 
 ### Progrès Réalisés
 
-Aujourd'hui, j'ai codé pendant 2 heures et 30 minutes, dont 2 heures le matin et 1 heure 30 minutes le soir, ce qui correspond à 5 pomodoros de 30 minutes avec une pause de 5 minutes entre chaque pomodoro.
+Aujourd'hui, j'ai codé pendant 1 heures et 30 minutes, ce qui correspond à 3 pomodoros de 30 minutes avec une pause de 5 minutes entre chaque pomodoro.
 
 Utilisant [Pomodoro Tracker](https://pomodoro-tracker.com/) pour suivre mon temps. Je fais des sessions de travail d'une heure, sans interruption, pour rester concentré et productif. Cela me permet de mesurer précisément mon temps de programmation solo, en excluant les discussions et le pair programming.
 
 je poursuis mon exploration de React Router, à travers un exercice protique d'une To Do List.
 
----
+- Après avoir intégré la fonctionnalité permettant de modifier les éléments de la liste de tâches à l'aide du bouton;
+
+- j'ai étendu l'application en introduisant deux nouveaux composants. Ces composants permettent de distinguer les tâches déjà accomplies de celles qui ne le sont pas encore.
 
 # [EN] Development Journal - Managing state in React
 
