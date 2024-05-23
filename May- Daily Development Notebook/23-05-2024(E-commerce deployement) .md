@@ -4,7 +4,12 @@
 
 ### Progrès Réalisés
 
-Aujourd'hui, Je continue le cours sur le Projet de site Web de commerce électronique complet. J'ai commencé un nouveau projet de e-commerce simple en utilisant React et j'ai créé :
+Aujourd'hui, je continue le cours sur le projet de site web de commerce électronique complet.
+
+C'est le deuxième jour, et voici les avancées réalisées :
+
+- J'ai créé le template du panier et implémenté les fonctions permettant d'ajouter les produits au panier.
+- J'ai implémenté le calcul des quantités de produits et du total du panier.
 
 ---
 
