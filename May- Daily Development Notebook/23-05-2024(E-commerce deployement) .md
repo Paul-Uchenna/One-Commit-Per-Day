@@ -19,4 +19,9 @@ C'est le deuxième jour, et voici les avancées réalisées :
 
 ### Progress Achieved
 
-I am continuing the course on the Complete E-commerce Website Project. I have started a new simple e-commerce project using React and have created:
+Today, I continue the course on the complete e-commerce website project.
+
+It's the second day, and here are the advancements made:
+
+- I created the cart template and implemented functions to add products to the cart.
+- I implemented the calculation of product quantities and the total cart amount.
