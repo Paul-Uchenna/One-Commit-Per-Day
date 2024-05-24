@@ -6,7 +6,9 @@
 
 Aujourd'hui, je continue le cours sur le projet de site web de commerce électronique complet.
 
-C'est le jour, et voici les avancées réalisées :
+C'est le troisième jour, et voici les avancées réalisées :
+
+- J'ai ajouté des media queries pour rendre mon site responsive.
 
 ---
 
@@ -18,4 +20,6 @@ C'est le jour, et voici les avancées réalisées :
 
 Today, I continue the course on the complete e-commerce website project.
 
-It's the day, and here are the advancements made:
+It's the third day, and here are the advancements made:
+
+- I added media queries to make my site responsive.
