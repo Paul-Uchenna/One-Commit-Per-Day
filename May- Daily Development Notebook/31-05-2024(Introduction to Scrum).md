@@ -4,7 +4,31 @@
 
 ### Progrès Réalisés
 
-Aujourd'hui,
+Aujourd'hui, j'ai decouvert SCRUM.
+
+Scrum est un cadre de travail (framework) agile utilisé pour gérer le développement de produits complexes, en particulier dans le domaine du développement logiciel. Voici une vue d'ensemble concise :
+
+### Principes de Scrum
+
+1. **Iteratif et Incrémental** : Scrum repose sur des cycles de travail courts et fixes appelés "sprints", généralement de 1 à 4 semaines. Chaque sprint produit un incrément du produit qui est potentiellement livrable.
+2. **Auto-organisation** : Les équipes Scrum sont auto-organisées, c'est-à-dire qu'elles décident elles-mêmes de la meilleure façon d'accomplir le travail au sein des sprints.
+3. **Collaboration et Communication** : Scrum met l'accent sur une communication et une collaboration continues entre les membres de l'équipe et avec les parties prenantes.
+
+### Rôles Scrum
+
+1. **Product Owner** : Responsable de maximiser la valeur du produit et de gérer le backlog du produit. Il priorise les éléments du backlog en fonction des besoins et des objectifs.
+2. **Scrum Master** : Facilite le processus Scrum, aide l'équipe à comprendre et à adopter Scrum, et élimine les obstacles qui empêchent l'équipe de progresser.
+3. **Équipe de Développement** : Groupe de professionnels qui travaillent ensemble pour délivrer l'incrément du produit à la fin de chaque sprint.
+
+### Événements Scrum
+
+1. **Sprint** : Période fixe pendant laquelle un travail spécifique est accompli et un incrément du produit est créé.
+2. **Sprint Planning** : Réunion pour planifier le travail du sprint à venir. L'équipe sélectionne les éléments du backlog et les décompose en tâches.
+3. **Daily Scrum (Stand-up)** : Réunion quotidienne de 15 minutes pour synchroniser les activités et planifier les prochaines 24 heures.
+4. **Sprint Review** : Réunion à la fin du sprint pour inspecter l'incrément et adapter le backlog si nécessaire. Les parties prenantes fournissent des retours.
+5. **Sprint Retrospective** : Réunion après le sprint pour réfléchir sur le processus et identifier les améliorations à apporter.
+
+Scrum aide les équipes à livrer des produits de haute qualité de manière efficace et flexible, tout en permettant des ajustements rapides en réponse aux changements de priorités et de marché.
 
 ---
 
