@@ -38,4 +38,28 @@ Scrum aide les équipes à livrer des produits de haute qualité de manière eff
 
 ### Progress Achieved
 
-Today,
+Today, I discovered SCRUM.
+
+Scrum is an agile framework used to manage complex product development, especially in software development. Here's a concise overview:
+
+### Principles of Scrum
+
+1. **Iterative and Incremental**: Scrum is based on short, fixed work cycles called "sprints," typically lasting 1 to 4 weeks. Each sprint produces a potentially deliverable product increment.
+2. **Self-Organization**: Scrum teams are self-organizing, meaning they decide the best way to accomplish their work within sprints.
+3. **Collaboration and Communication**: Scrum emphasizes continuous communication and collaboration among team members and stakeholders.
+
+### Scrum Roles
+
+1. **Product Owner**: Responsible for maximizing the value of the product and managing the product backlog. They prioritize backlog items based on needs and goals.
+2. **Scrum Master**: Facilitates the Scrum process, helps the team understand and adopt Scrum, and removes obstacles that impede the team's progress.
+3. **Development Team**: A group of professionals who work together to deliver the product increment at the end of each sprint.
+
+### Scrum Events
+
+1. **Sprint**: A fixed period during which specific work is completed, and a product increment is created.
+2. **Sprint Planning**: A meeting to plan the work for the upcoming sprint. The team selects backlog items and breaks them down into tasks.
+3. **Daily Scrum (Stand-up)**: A 15-minute daily meeting to synchronize activities and plan the next 24 hours.
+4. **Sprint Review**: A meeting at the end of the sprint to inspect the increment and adapt the product backlog if needed. Stakeholders provide feedback.
+5. **Sprint Retrospective**: A meeting after the sprint to reflect on the process and identify improvements.
+
+Scrum helps teams deliver high-quality products efficiently and flexibly, allowing for quick adjustments in response to changing priorities and market demands.
