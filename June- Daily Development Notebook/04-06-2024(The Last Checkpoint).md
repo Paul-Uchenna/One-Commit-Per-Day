@@ -4,7 +4,14 @@
 
 ### Progrès Réalisés
 
-Aujourd'hui,
+Aujourd'hui, j'ai exploré les différents projets disponibles :
+
+- Projet E-commerce
+- Application de gestion de tâches
+- Application de recommandation de livres
+- Application de chat en temps réel
+
+Après avoir discuté avec mon instructeur, j'ai finalement choisi de réaliser l'application de chat en temps réel.
 
 ---
 
@@ -14,4 +21,11 @@ Aujourd'hui,
 
 ### Progress Achieved
 
-Today,
+Today, I explored the different available projects:
+
+- E-commerce project
+- Task management application
+- Book recommendation app
+- Real-time chat application
+
+After discussing with my instructor, I finally decided to choose the real-time chat application.
