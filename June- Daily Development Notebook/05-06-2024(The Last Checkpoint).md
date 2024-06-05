@@ -4,7 +4,9 @@
 
 ### Progrès Réalisés
 
-Aujourd'hui, j'ai exploré les différents projets disponibles :
+Aujourd'hui, j'ai mis en place mon environnement de développement pour mon projet de chat, en installant les packages nécessaires. Ensuite, j'ai développé une petite application de tirage au sort pour Gomycode.
+
+voici le [lien](https://github.com/Paul-Uchenna/ramdom-draw-app)
 
 ---
 
@@ -14,4 +16,6 @@ Aujourd'hui, j'ai exploré les différents projets disponibles :
 
 ### Progress Achieved
 
-Today, I explored the different available projects:
+Today, I set up my development environment for my chat project by installing the necessary packages. Afterwards, I developed a small random draw application for Gomycode.
+
+Here's the [link](https://github.com/Paul-Uchenna/ramdom-draw-app).
