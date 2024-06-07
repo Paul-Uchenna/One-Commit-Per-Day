@@ -4,8 +4,6 @@
 
 ### Progrès Réalisés
 
-Bien sûr, voici une version reformulée :
-
 Aujourd'hui, j'ai terminé les dernières retouches sur l'application de tirage au sort et je l'ai finalement déployée sur Vercel.
 
 Voici le [lien](https://ramdom-draw.vercel.app).
