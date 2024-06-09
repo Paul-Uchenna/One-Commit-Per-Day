@@ -21,3 +21,9 @@ Aujourd'hui, j'ai avancé dans mon projet final. Voici ce que j'ai fait :
 ### Progress Achieved
 
 Today, I made progress on my final project. Here’s what I accomplished:
+
+- Sidebar
+- Navigation and layout
+- User screen
+- Conversation screen
+- Conversation creation
