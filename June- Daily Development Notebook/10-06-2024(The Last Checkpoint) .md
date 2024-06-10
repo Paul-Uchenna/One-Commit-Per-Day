@@ -4,7 +4,10 @@
 
 ### Progrès Réalisés
 
-Aujourd'hui, j'ai avancé dans mon projet final. Voici ce que j'ai fait :
+Aujourd'hui, j'ai progressé dans mon projet final. Voici ce que j'ai accompli :
+
+- Poursuite de la création de la fonctionnalité de conversation
+- Stylisation de l'interface de conversation
 
 ---
 
@@ -15,3 +18,6 @@ Aujourd'hui, j'ai avancé dans mon projet final. Voici ce que j'ai fait :
 ### Progress Achieved
 
 Today, I made progress on my final project. Here’s what I accomplished:
+
+- Continued developing the conversation feature
+- Styled the conversation interface
