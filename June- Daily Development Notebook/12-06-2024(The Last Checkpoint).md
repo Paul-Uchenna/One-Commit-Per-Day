@@ -6,6 +6,8 @@
 
 Aujourd'hui, j'ai progressé dans mon projet final. Voici ce que j'ai accompli :
 
+- J'ai rencontré un problème : je n'arrive pas à envoyer des messages. Il semble que mon modèle Prisma soit en cause. Demain, je vais réécrire le modèle pour identifier le souci.
+
 ---
 
 # [EN] Development Journal - The Last Checkpoint
@@ -15,3 +17,5 @@ Aujourd'hui, j'ai progressé dans mon projet final. Voici ce que j'ai accompli :
 ### Progress Achieved
 
 Today, I made progress on my final project. Here’s what I accomplished:
+
+- I encountered a problem: I can't send messages, and it seems my Prisma model is the issue. Tomorrow, I will rewrite the model to identify the problem.
