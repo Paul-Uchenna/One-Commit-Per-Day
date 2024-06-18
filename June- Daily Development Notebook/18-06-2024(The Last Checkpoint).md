@@ -6,6 +6,8 @@
 
 Aujourd'hui, j'ai progressé dans mon projet final. Voici ce que j'ai accompli :
 
+Je continue à développer la partie messagerie de mon application en ajoutant la fonctionnalité d'envoi de messages vers ma base de données.
+
 ---
 
 # [EN] Development Journal - The Last Checkpoint
@@ -15,3 +17,5 @@ Aujourd'hui, j'ai progressé dans mon projet final. Voici ce que j'ai accompli :
 ### Progress Achieved
 
 Today, I made progress on my final project. Here's what I accomplished:
+
+I am continuing to develop the messaging feature of my application by adding functionality to send messages to my database.
